@@ -1,2 +1,8 @@
-# Electromechanical-system-for-playing-the-dino-game-
-Created an automated electromechanical system capable of detecting obstacles and automatically controlling gameplay actions in the Chrome Dino Game. 
+Components
+Arduino Uno
+LDR (Light Dependent Resistor)
+Servo Motor
+Breadboard
+Connecting Wires
+Laptop or PC
+Mechanical Mount
